@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f827b411-af68-44c6-9e0c-5dc09404c5f3" name="Changes" comment="Creacion de las carpetas curso java.">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasico/TiposDeVariables.java" afterDir="false" />
+    <list default="true" id="f827b411-af68-44c6-9e0c-5dc09404c5f3" name="Changes" comment="Tipos primitivos.">
+      <change afterPath="$PROJECT_DIR$/src/JavaBasico/palabrasReservadasEnJava.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasico/TiposDeVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasico/TiposDeVariables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719407469944</updated>
-      <workItem from="1719407471032" duration="1929000" />
+      <workItem from="1719407471032" duration="3803000" />
     </task>
     <task id="LOCAL-00001" summary="Creacion de las carpetas curso java.">
       <option name="closed" value="true" />
@@ -74,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719407613287</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tipos primitivos.">
+      <option name="closed" value="true" />
+      <created>1719409876005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719409876005</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creacion de las carpetas curso java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de las carpetas curso java." />
+    <MESSAGE value="Tipos primitivos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tipos primitivos." />
   </component>
 </project>
